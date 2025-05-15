@@ -87,4 +87,4 @@
 
 [Shopify Development Store Preview](https://henq03-vr.myshopify.com/)
 
-🔐 **Password:** your-password-here
+🔐 **Password:** reiglo
